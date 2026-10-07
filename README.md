@@ -14,23 +14,6 @@ Projeto de análise de dados desenvolvido a partir do dataset público do Titani
 
 ---
 
-## Sumário
-
-- [Sobre o projeto](#sobre-o-projeto)
-- [Perguntas da análise](#perguntas-da-análise)
-- [Dataset](#dataset)
-- [Metodologia](#metodologia)
-- [Tratamento de dados](#tratamento-de-dados)
-- [Indicadores](#indicadores)
-- [Resultados](#resultados)
-- [Dashboard](#dashboard)
-- [Estrutura do repositório](#estrutura-do-repositório)
-- [Como executar](#como-executar)
-- [Ferramentas e competências](#ferramentas-e-competências)
-- [Contato](#contato)
-
----
-
 ## Sobre o projeto
 
 O projeto começou pela **análise exploratória** do dataset para compreender sua estrutura e identificar problemas que poderiam comprometer a análise.
